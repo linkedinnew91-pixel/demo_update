@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
-  "installerUrl": "https://example.com/autoupdatedemo/AutoUpdateDemo-Setup-1.1.0.exe",
-  "sha256": "REPLACE_WITH_SHA256_OF_SIGNED_INSTALLER",
+  "installerUrl": "https://github.com/linkedinnew91-pixel/demo_update/releases/download/NewDemo/AutoUpdateDemo-Setup-1.0.1.exe",
+  "sha256": "e4328fad34e7c31add203c4474cf51e8345673438f0cdcb71c5389386dbf3053",
   "releaseNotes": "- Added dark mode\n- Fixed crash when checking for updates offline\n- Performance improvements",
   "sizeBytes": 15728640,
   "mandatory": false
